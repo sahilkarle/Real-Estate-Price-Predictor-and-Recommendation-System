@@ -16,11 +16,6 @@ Find the perfect property and make smarter real estate decisions with ease!
 Our tool combines **cutting-edge machine learning** and **intuitive design** to simplify the property search and evaluation process.
 """)
 
-# Add a banner image
-st.image(
-    "../Streamlit/1714768726294.jpg", 
-    use_container_width=True
-)
 
 # Visually separate sections
 st.markdown("---")

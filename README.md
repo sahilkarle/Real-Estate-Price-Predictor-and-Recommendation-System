@@ -9,7 +9,7 @@ This project involves predicting the prices of flats and houses based on various
   - [Price Prediction](#price-prediction)
   - [Analytics Module](#analytics-module)
   - [Recommender System](#recommender-system)
-- [Data Collection](#data-collection)
+- [Data Collection](#data-collection-and-preparation)
 - [Model Training](#model-training)
 - [Recommender Systems](#recommender-systems)
 - [Streamlit](#streamlit-app)

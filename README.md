@@ -70,12 +70,14 @@ The cleaned data was used to train a Random Forest model to predict property pri
 
 The final recommender system combines the results of these three systems.
 
-## Flask App
+## Streamlit Application
 
-The project is demonstrated using a Flask app with a navigation bar for each functionality. Users can:
-- Predict property prices
-- View analytical insights
-- Get property recommendations
+The project is demonstrated using a Streamlit Application with a Sidebar for each functionality. Users can:
+- Predict property prices.
+- Explore analytical insights through interactive visualizations.
+- Access personalized property recommendations.
+
+  The app design emphasizes simplicity and functionality, ensuring a seamless user experience.
 
 ## Results
 

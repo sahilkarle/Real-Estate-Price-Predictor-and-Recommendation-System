@@ -77,11 +77,16 @@ The project is demonstrated using a Streamlit Application with a Sidebar for eac
 - Explore analytical insights through interactive visualizations.
 - Access personalized property recommendations.
 
-  The app design emphasizes simplicity and functionality, ensuring a seamless user experience.
+The app design emphasizes simplicity and functionality, ensuring a seamless user experience.
 
 ## Results
 
-The final results of the project are displayed in the form of images and interactive visualizations within the Flask app.
+The project achieves the following outcomes:
+
+* High Prediction Accuracy: The Random Forest model achieves an R² score of 0.9023.
+* Comprehensive Market Insights: Interactive analytics provide actionable insights into property trends.
+* Tailored Recommendations: The recommender system offers location-based and similarity-driven suggestions.
+This solution empowers users to make informed decisions in the real estate market with confidence.
 
 ### User Interface
 

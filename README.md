@@ -60,7 +60,7 @@ The recommender system has two components:
 
 The final recommendation is a combination of these three systems, with different importance assigned to each aspect.
 
-## Data Collection
+## Data Collection and Preparation
 
 * Data was web-scraped from 99acres and other real estate websites.
 * Ensured diversity and comprehensiveness in the dataset.

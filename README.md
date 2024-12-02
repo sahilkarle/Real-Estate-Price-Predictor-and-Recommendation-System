@@ -1,6 +1,6 @@
 # Real-Estate-Price-Predictor-and-Recommendation-System
 
-This project involves predicting the prices of flats and houses based on various parameters, performing data analysis, and providing recommendations based on location and similarity scores. The project is implemented using a Flask app for demonstration purposes.
+This project involves predicting the prices of flats and houses based on various parameters, performing data analysis, and providing recommendations based on location and similarity scores. The project is implemented using a Streamlit Application for demonstration purposes.
 
 ## Table of Contents
 
@@ -101,6 +101,7 @@ The project achieves the following outcomes:
 This solution empowers users to make informed decisions in the real estate market with confidence.
 
 ## Video demonstration
+https://www.youtube.com/watch?v=gWRQHzNW4Eo
 
 ### User Interface
 ![FireShot Capture 002 - 🏠 Real Estate Price Predictor   Recommendation Tool - localhost](https://github.com/user-attachments/assets/91d0ac8d-bc8e-4a0d-b2de-caefa64fb95c)

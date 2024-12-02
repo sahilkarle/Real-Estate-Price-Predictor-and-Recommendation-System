@@ -100,6 +100,8 @@ The project achieves the following outcomes:
 This solution empowers users to make informed decisions in the real estate market with confidence.
 
 ### User Interface
+![FireShot Capture 002 - 🏠 Real Estate Price Predictor   Recommendation Tool - localhost](https://github.com/user-attachments/assets/91d0ac8d-bc8e-4a0d-b2de-caefa64fb95c)
+
 
 ### Price Prediction
 

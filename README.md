@@ -102,9 +102,11 @@ This solution empowers users to make informed decisions in the real estate marke
 ### User Interface
 ![FireShot Capture 002 - 🏠 Real Estate Price Predictor   Recommendation Tool - localhost](https://github.com/user-attachments/assets/91d0ac8d-bc8e-4a0d-b2de-caefa64fb95c)
 
-
 ### Price Prediction
+![FireShot Capture 003 - 🏡 Property Price Prediction - localhost](https://github.com/user-attachments/assets/12354cb0-dba8-4338-a80e-33995544c389)
 
 ### Analytics Module
+![FireShot Capture 006 - Plotting Demo - localhost](https://github.com/user-attachments/assets/c9408fbf-43e0-4d3c-8f67-7aad22831a9e)
 
 ### Recommendation System
+![FireShot Capture 004 - Recommend Apartments - localhost](https://github.com/user-attachments/assets/122e7305-4d44-40a4-861a-2a0617a877e0)

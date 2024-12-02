@@ -62,7 +62,10 @@ The final recommendation is a combination of these three systems, with different
 
 ## Data Collection
 
-The data for this project was webscraped from various real estate websites. After collection, the data was cleaned and prepared for analysis.
+* Data was web-scraped from 99acres and other real estate websites.
+* Ensured diversity and comprehensiveness in the dataset.
+* Addressed missing values and inconsistencies.
+* Unified datasets of flats and houses for seamless analysis.
 
 ## Model Training
 

@@ -13,7 +13,7 @@ This project involves predicting the prices of flats and houses based on various
 - [Feature Engineering and EDA](#feature-engineering-and-eda)
 - [Model Training](#model-training)
 - [Recommender Systems](#recommender-systems)
-- [Streamlit](#streamlit-app)
+- [Streamlit Application](#streamlit-application)
 - [Results](#results)
 
 ## Introduction

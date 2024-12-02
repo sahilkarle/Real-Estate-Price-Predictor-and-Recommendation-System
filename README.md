@@ -12,7 +12,7 @@ This project involves predicting the prices of flats and houses based on various
 - [Data Collection](#data-collection)
 - [Model Training](#model-training)
 - [Recommender Systems](#recommender-systems)
-- [Flask App](#flask-app)
+- [Streamlit](#streamlit-app)
 - [Results](#results)
 
 ## Introduction

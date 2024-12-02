@@ -10,6 +10,7 @@ This project involves predicting the prices of flats and houses based on various
   - [Analytics Module](#analytics-module)
   - [Recommender System](#recommender-system)
 - [Data Collection and Preparation](#data-collection-and-preparation)
+- [Feature Engineering and EDA](#feature-engineering-and-eda)
 - [Model Training](#model-training)
 - [Recommender Systems](#recommender-systems)
 - [Streamlit](#streamlit-app)
@@ -66,6 +67,13 @@ The final recommendation is a combination of these three systems, with different
 * Ensured diversity and comprehensiveness in the dataset.
 * Addressed missing values and inconsistencies.
 * Unified datasets of flats and houses for seamless analysis.
+
+## Feature Engineering and EDA
+
+* Added new features such as luxury scores, additional room indicators, and area-type combinations.
+* Conducted univariate and multivariate analyses using Pandas Profiling.
+* Addressed outliers and imputed missing data in critical columns.
+* Feature selection techniques included SHAP, LASSO, and Random Forest Feature Importance.
 
 ## Model Training
 

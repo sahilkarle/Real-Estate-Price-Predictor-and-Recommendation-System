@@ -1,4 +1,4 @@
-# Real-Estate-Price-Predictor-and-Recommendation-System
+# SMART HOME ADVISOR
 
 This project involves predicting the prices of flats and houses based on various parameters, performing data analysis, and providing recommendations based on location and similarity scores. The project is implemented using a Streamlit Application for demonstration purposes.
 
